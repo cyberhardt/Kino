@@ -4,6 +4,8 @@ This program works on Windows 10, and most likely on 7/8/11 as well but I can't 
 
 The program is very lightweight, using around 13 MB of RAM.
 
+Not sure what the building instructions are, I'll ask the developer about it.
+
 Screenshots:
 
 ![image](https://github.com/cyberhardt/Kino/assets/107224222/e7e883bc-7e8d-4101-a9df-e8ad27d0e657)
