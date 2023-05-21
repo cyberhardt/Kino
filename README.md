@@ -2,9 +2,9 @@ Description: A program that darkens the whole screen, except for a user-defined 
 
 This program works on Windows 10, and most likely on 7/8/11 as well but I can't be 100% sure.
 
-The program is very lightweight, using around 13 MB of RAM.
+The program is very lightweight, consuming around 13 MB of RAM.
 
-Not sure what the building instructions are, I'll ask the developer about it.
+Not sure what the building instructions are, I'll ask the developer about it - same for the license.
 
 Screenshots:
 
