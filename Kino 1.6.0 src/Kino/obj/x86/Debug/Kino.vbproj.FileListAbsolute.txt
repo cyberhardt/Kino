@@ -1,0 +1,50 @@
+C:\Users\Philipp\AppData\Local\Temporary Projects\Kino\bin\Debug\Kino.exe
+C:\Users\Philipp\AppData\Local\Temporary Projects\Kino\bin\Debug\Kino.pdb
+C:\Users\Philipp\AppData\Local\Temporary Projects\Kino\bin\Debug\Kino.xml
+C:\Users\Philipp\AppData\Local\Temporary Projects\Kino\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Philipp\AppData\Local\Temporary Projects\Kino\obj\x86\Debug\Kino.Form1.resources
+C:\Users\Philipp\AppData\Local\Temporary Projects\Kino\obj\x86\Debug\Kino.Resources.resources
+C:\Users\Philipp\AppData\Local\Temporary Projects\Kino\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Philipp\AppData\Local\Temporary Projects\Kino\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Philipp\AppData\Local\Temporary Projects\Kino\obj\x86\Debug\Kino.exe
+C:\Users\Philipp\AppData\Local\Temporary Projects\Kino\obj\x86\Debug\Kino.xml
+C:\Users\Philipp\AppData\Local\Temporary Projects\Kino\obj\x86\Debug\Kino.pdb
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Debug\Kino.exe
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Debug\Kino.xml
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Debug\Kino.pdb
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\bin\Debug\Kino.exe
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\bin\Debug\Kino.pdb
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\bin\Debug\Kino.xml
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Debug\Kino.Resources.resources
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Debug\ResGen.read.1.tlog
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Debug\ResGen.write.1.tlog
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Debug\Kino.frmKino.resources
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\bin\Debug\Kino.exe.manifest
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\bin\Debug\Kino.application
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Debug\Kino.TrustInfo.xml
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Debug\Kino.exe.manifest
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Debug\Kino.application
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\bin\Debug\Ionic.Zip.pdb
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\bin\Debug\Ionic.Zip.xml
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\bin\Debug\Kino.exe.config
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\bin\Debug\Kino.exe.config
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\obj\x86\Debug\Kino.exe
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\obj\x86\Debug\Kino.xml
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\obj\x86\Debug\Kino.pdb
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\bin\Debug\Kino.exe.manifest
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\bin\Debug\Kino.application
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\bin\Debug\Kino.exe
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\bin\Debug\Kino.pdb
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\bin\Debug\Kino.xml
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\obj\x86\Debug\Kino.frmKino.resources
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\obj\x86\Debug\Kino.Resources.resources
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\obj\x86\Debug\ResGen.read.1.tlog
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\obj\x86\Debug\ResGen.write.1.tlog
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\obj\x86\Debug\Kino.TrustInfo.xml
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\obj\x86\Debug\Kino.exe.manifest
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\obj\x86\Debug\Kino.application
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\bin\Debug\Ionic.Zip.dll
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\bin\Debug\Ionic.Zip.pdb
+D:\Philipp\Informatik\Visual Studio\Projects\Kino 1.6.0\Kino\bin\Debug\Ionic.Zip.xml

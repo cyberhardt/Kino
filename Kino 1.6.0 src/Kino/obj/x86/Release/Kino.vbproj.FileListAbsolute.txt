@@ -1,0 +1,16 @@
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\bin\Release\Kino.exe.manifest
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\bin\Release\Kino.application
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\bin\Release\Kino.exe
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\bin\Release\Kino.pdb
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\bin\Release\Kino.xml
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Release\Kino.frmKino.resources
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Release\Kino.Resources.resources
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Release\ResGen.read.1.tlog
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Release\ResGen.write.1.tlog
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Release\Kino.TrustInfo.xml
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Release\Kino.exe.manifest
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Release\Kino.application
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Release\Kino.exe
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Release\Kino.xml
+D:\Philipp\Informatik\Visual Studio\Projects\Kino\Kino\obj\x86\Release\Kino.pdb

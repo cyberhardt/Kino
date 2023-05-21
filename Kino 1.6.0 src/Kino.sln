@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Kino", "Kino\Kino.vbproj", "{BC8A87F0-1C8A-4894-B024-76D3FCE1094D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Kino_Setup", "Kino_Setup\Kino_Setup.vdproj", "{DB3B9F32-A1B9-4B94-A16F-D97A21731D81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8A87F0-1C8A-4894-B024-76D3FCE1094D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{BC8A87F0-1C8A-4894-B024-76D3FCE1094D}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{BC8A87F0-1C8A-4894-B024-76D3FCE1094D}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{BC8A87F0-1C8A-4894-B024-76D3FCE1094D}.Debug|x86.ActiveCfg = Debug|x86
+		{BC8A87F0-1C8A-4894-B024-76D3FCE1094D}.Debug|x86.Build.0 = Debug|x86
+		{BC8A87F0-1C8A-4894-B024-76D3FCE1094D}.Release|Any CPU.ActiveCfg = Release|x86
+		{BC8A87F0-1C8A-4894-B024-76D3FCE1094D}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{BC8A87F0-1C8A-4894-B024-76D3FCE1094D}.Release|Mixed Platforms.Build.0 = Release|x86
+		{BC8A87F0-1C8A-4894-B024-76D3FCE1094D}.Release|x86.ActiveCfg = Release|x86
+		{BC8A87F0-1C8A-4894-B024-76D3FCE1094D}.Release|x86.Build.0 = Release|x86
+		{DB3B9F32-A1B9-4B94-A16F-D97A21731D81}.Debug|Any CPU.ActiveCfg = Debug
+		{DB3B9F32-A1B9-4B94-A16F-D97A21731D81}.Debug|Any CPU.Build.0 = Debug
+		{DB3B9F32-A1B9-4B94-A16F-D97A21731D81}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{DB3B9F32-A1B9-4B94-A16F-D97A21731D81}.Debug|Mixed Platforms.Build.0 = Debug
+		{DB3B9F32-A1B9-4B94-A16F-D97A21731D81}.Debug|x86.ActiveCfg = Debug
+		{DB3B9F32-A1B9-4B94-A16F-D97A21731D81}.Release|Any CPU.ActiveCfg = Release
+		{DB3B9F32-A1B9-4B94-A16F-D97A21731D81}.Release|Any CPU.Build.0 = Release
+		{DB3B9F32-A1B9-4B94-A16F-D97A21731D81}.Release|Mixed Platforms.ActiveCfg = Release
+		{DB3B9F32-A1B9-4B94-A16F-D97A21731D81}.Release|Mixed Platforms.Build.0 = Release
+		{DB3B9F32-A1B9-4B94-A16F-D97A21731D81}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
