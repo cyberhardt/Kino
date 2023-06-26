@@ -4,7 +4,7 @@ This program works on Windows 10, and most likely on 7/8/11 as well but I can't 
 
 The program is very lightweight, consuming around 13 MB of RAM.
 
-Licence: GPLv2
+License: GPLv2
 
 Building instructions: The program is built with Visual Studio. The developer has not yet provided any further information.
 
